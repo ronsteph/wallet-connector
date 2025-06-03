@@ -53,7 +53,7 @@
     "@tomo-inc/wallet-connect-sdk": "^0.3.21",
     "buffer": "^6.0.3",
     "nanoevents": "^9.1.0",
-    "usehooks-ts": "^3.0.2",
+    "usehooks-ts": "^3.1.1",
     "uuid": "^11.1.0"
   },
   "files": [
